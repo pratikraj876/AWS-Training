@@ -1,6 +1,6 @@
 # AWS-Training
 
-This is smy first Repository.
+This is my first Repository.
 
 <br>
 Author - Pratik Kumar
